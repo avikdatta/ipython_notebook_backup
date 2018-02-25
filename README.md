@@ -2,9 +2,9 @@
 This repository is for backing up my python notebooks.
 
 ## Notebook
-I use [Jupyter notebook](http://jupyter.org/) both for R and Python codes. [IRkerlen](https://github.com/IRkernel/IRkernel) should be installed for running R codes via Jupyter. 
+I used docker images for running these jupyter notebooks [Jupyter notebook](http://jupyter.org/) for both R and Python codes. [IRkerlen](https://github.com/IRkernel/IRkernel) should be installed for running R codes via Jupyter. 
 
-I used a docker image for running these notebooks. 
+ 
 
 ### List of notebook images
 * Python: [avikdatta/pythonjupyterdockerimage](https://hub.docker.com/r/avikdatta/pythonjupyterdockerimage/) 
