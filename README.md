@@ -23,7 +23,7 @@ I used docker images for running these jupyter notebooks [Jupyter notebook](http
 ```bash
   docker run 
     -it \
-    -v /path:/root/app \
+    -v /path/app:/home/vmuser/app \
     -p 8888:8888 \
     avikdatta/pythonjupyterdockerimage \
     jupyter-notebook \
