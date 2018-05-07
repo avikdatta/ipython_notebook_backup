@@ -1,4 +1,4 @@
-## Link to the html file using Rawgit
+## Link to the html files using Rawgit
 
 * [basic-plots](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/basic-plots.html)
 * [scatter-plot-basic](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/scatter-plot-basic.html)
