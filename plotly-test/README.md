@@ -8,3 +8,5 @@
 * [plotly-6](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/plotly6.html)
 * [plotly-7](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/plotly7.html)
 * [plotly-8](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/plotly8.html)
+* [scatter-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/scatter-plot.html)
+* [dist-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/dist-plot.html)
