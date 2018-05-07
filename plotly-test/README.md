@@ -2,7 +2,7 @@
 
 * [basic-plots](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/basic-plots.html)
 * [scatter-plot-basic](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/scatter-plot-basic.html)
-* [ scatter-plot-pandas](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/ scatter-plot-pandas.html)
+* [scatter-plot-pandas](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/scatter-plot-pandas.html)
 * [line-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/line-plot.html)
 * [bar-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/bar-plot.html)
 * [box-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/box-plot.html)
