@@ -12,3 +12,5 @@
 * [dist-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/dist-plot.html)
 * [facet-plot](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/facet-plot.html)
 * [subplots](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/subplots.html)
+* [illumina-demuliplexing-stats](https://rawgit.com/avikdatta/ipython_notebook_backup/master/plotly-test/illumina-demuliplexing-stats.html)
+ 	
