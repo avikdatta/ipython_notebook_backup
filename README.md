@@ -1,6 +1,9 @@
 # Python notebooks
 This repository is for backing up my python notebooks.
 
+## NB viewer
+[ipython_notebook_backup](https://nbviewer.jupyter.org/github/avikdatta/ipython_notebook_backup/tree/master/)
+
 ## Notebook
 I used docker images for running these jupyter notebooks [Jupyter notebook](http://jupyter.org/) for both R and Python codes. [IRkerlen](https://github.com/IRkernel/IRkernel) should be installed for running R codes via Jupyter. 
 
